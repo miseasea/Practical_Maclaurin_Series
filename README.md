@@ -41,7 +41,7 @@ $$
 - [GitHub проекта](https://github.com/pgwookie/Practical_Maclaurin_Series)
 
 ### Изображение 
-![Структура проекта](https://via.placeholder.com/600x400.png)
+![Структура проекта](https://i.pinimg.com/originals/25/69/eb/2569eb5597fe9f2995ee5c94df0ea270.jpg)
 
 ### Стиль текста
 Этот текст демонстрирует использование **полужирного** и *курсивного* написания.
